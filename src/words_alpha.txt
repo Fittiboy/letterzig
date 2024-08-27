@@ -3363,7 +3363,6 @@ acupunctured
 acupuncturing
 acupuncturist
 acupuncturists
-acurative
 acus
 acusection
 acusector
@@ -42952,7 +42951,6 @@ buonamani
 buonamano
 buphaga
 buphthalmia
-buphthalmic
 buphthalmos
 buphthalmum
 bupleurol
@@ -44763,7 +44761,6 @@ calamodendron
 calamondin
 calamopitys
 calamospermae
-calamostachys
 calamumi
 calamus
 calander
@@ -46291,7 +46288,6 @@ canewares
 canewise
 canework
 canezou
-canfield
 canfieldite
 canfields
 canful
@@ -46350,7 +46346,6 @@ cankereat
 cankered
 cankeredly
 cankeredness
-cankerflower
 cankerfret
 cankery
 cankering
@@ -47776,7 +47771,6 @@ cardioaccelerator
 cardioarterial
 cardioblast
 cardiocarpum
-cardiocele
 cardiocentesis
 cardiocirrhosis
 cardioclasia
@@ -51355,7 +51349,6 @@ cercopod
 cercospora
 cercosporella
 cercus
-cerdonian
 cere
 cereal
 cerealian
@@ -51501,7 +51494,6 @@ cerinthe
 cerinthian
 ceriomyces
 cerion
-cerionidae
 ceriops
 ceriornis
 ceriph
@@ -59564,7 +59556,6 @@ clavicorn
 clavicornate
 clavicornes
 clavicornia
-clavicotomy
 clavicular
 clavicularium
 claviculate
@@ -65357,7 +65348,6 @@ conclamant
 conclamation
 conclave
 conclaves
-conclavist
 concludable
 conclude
 concluded
@@ -85644,7 +85634,6 @@ dyker
 dikereeve
 dykereeve
 dikeria
-dikerion
 dikers
 dikes
 dykes
@@ -94810,7 +94799,6 @@ earthboard
 earthborn
 earthbound
 earthbred
-earthdrake
 earthed
 earthen
 earthenhearted
@@ -99116,7 +99104,6 @@ encage
 encaged
 encages
 encaging
-encake
 encalendar
 encallow
 encamp
@@ -99125,7 +99112,6 @@ encamping
 encampment
 encampments
 encamps
-encanker
 encanthis
 encapsulate
 encapsulated
@@ -99595,7 +99581,6 @@ endaortitis
 endarch
 endarchy
 endarchies
-endark
 endarterectomy
 endarteria
 endarterial
@@ -100622,7 +100607,6 @@ enkennel
 enkerchief
 enkernel
 enki
-enkidu
 enkindle
 enkindled
 enkindler
@@ -101369,7 +101353,6 @@ entertainingness
 entertainment
 entertainments
 entertains
-entertake
 entertissue
 entete
 entfaoilff
@@ -146214,7 +146197,6 @@ iconological
 iconologist
 iconomachal
 iconomachy
-iconomachist
 iconomania
 iconomatic
 iconomatically
@@ -167475,8 +167457,6 @@ laywoman
 laywomen
 lak
 lakarpite
-lakatan
-lakatoi
 lake
 laked
 lakefront
@@ -167504,7 +167484,6 @@ lakie
 lakier
 lakiest
 lakin
-laking
 lakings
 lakish
 lakishness
@@ -167771,7 +167750,6 @@ lampara
 lampas
 lampases
 lampate
-lampatia
 lampblack
 lampblacked
 lampblacking
@@ -168171,9 +168149,7 @@ lanital
 lanitals
 lanius
 lank
-lanker
 lankest
-lanket
 lanky
 lankier
 lankiest
@@ -169356,12 +169332,9 @@ lawyerlike
 lawyerling
 lawyers
 lawyership
-lawine
 lawines
-lawing
 lawings
 lawish
-lawk
 lawks
 lawlants
 lawless
@@ -169400,7 +169373,6 @@ lawsonite
 lawsuit
 lawsuiting
 lawsuits
-lawter
 lawton
 lawzy
 lax
@@ -175191,7 +175163,6 @@ lophostea
 lophosteon
 lophosteons
 lophotriaene
-lophotrichic
 lophotrichous
 lophura
 loping
@@ -175681,7 +175652,6 @@ loxes
 loxia
 loxic
 loxiinae
-loxing
 loxoclase
 loxocosm
 loxodograph
@@ -201821,7 +201791,6 @@ noncasual
 noncasuistic
 noncasuistical
 noncasuistically
-noncataclysmal
 noncataclysmic
 noncatalytic
 noncatalytically
@@ -202507,7 +202476,6 @@ nonconvertible
 nonconvertibleness
 nonconvertibly
 nonconviction
-nonconvivial
 nonconviviality
 nonconvivially
 noncooperating
@@ -205310,11 +205278,8 @@ nonmiscibility
 nonmiscible
 nonmissionary
 nonmissionaries
-nonmystic
-nonmystical
 nonmystically
 nonmysticalness
-nonmysticism
 nonmythical
 nonmythically
 nonmythologic
@@ -205369,7 +205334,6 @@ nonmotile
 nonmotility
 nonmotion
 nonmotivated
-nonmotivation
 nonmotivational
 nonmotoring
 nonmotorist
@@ -208284,7 +208248,6 @@ nonviolability
 nonviolable
 nonviolableness
 nonviolably
-nonviolation
 nonviolative
 nonviolence
 nonviolent
@@ -208316,12 +208279,10 @@ nonvisible
 nonvisibly
 nonvisional
 nonvisionary
-nonvisitation
 nonvisiting
 nonvisual
 nonvisualized
 nonvisually
-nonvital
 nonvitality
 nonvitalized
 nonvitally
@@ -212055,7 +212016,6 @@ olecranal
 olecranarthritis
 olecranial
 olecranian
-olecranoid
 olecranon
 olefiant
 olefin
@@ -266671,7 +266631,6 @@ rekindler
 rekindles
 rekindling
 reking
-rekinole
 rekiss
 reknead
 reknit
@@ -277316,7 +277275,6 @@ saltires
 saltireways
 saltirewise
 saltish
-saltishly
 saltishness
 saltless
 saltlessness
@@ -287113,7 +287071,6 @@ shaft
 shafted
 shafter
 shaftfoot
-shafty
 shafting
 shaftings
 shaftless
@@ -287179,7 +287136,6 @@ shairds
 shairn
 shairns
 shays
-shaysite
 shaitan
 shaitans
 shaiva
@@ -287674,7 +287630,6 @@ sheading
 sheaf
 sheafage
 sheafed
-sheafy
 sheafing
 sheaflike
 sheafripe
@@ -341446,7 +341401,6 @@ unequivocalness
 unequivocating
 uneradicable
 uneradicated
-uneradicative
 unerasable
 unerased
 unerasing
