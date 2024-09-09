@@ -6,7 +6,7 @@ pub fn main() !void {
     defer _ = gen_p_alloc.detectLeaks();
     const gpa = gen_p_alloc.allocator();
 
-    std.debug.print("Letters: ", .{});
+    std.debug.print("Letters:\n", .{});
     const stdin = std.io.getStdIn().reader();
     var buf: [13]u8 = undefined;
     _ = try stdin.readAll(&buf);
